@@ -1,3 +1,2 @@
-# AppClub { build, monetize }
-AppClub { build, monetize } presentations and additional materials.
-http://appclub.im
+# DevRain Community
+Previously - AppClub { build, monetize } http://appclub.devrain.com
